@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./App.css";
+import "./projek.css";
 
 function App() {
   const [weight, setWeight] = useState("");
